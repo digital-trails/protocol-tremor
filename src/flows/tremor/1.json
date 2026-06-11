@@ -3,7 +3,6 @@
   "information": {
     "position": "before",
     "count_key": "tremor_instructions",
-    "information_count": 0,
     "elements": [
       {
         "type": "text",
@@ -17,7 +16,7 @@
       },
       {
         "type": "media",
-        "uri": "assets/instructionFigure.png"
+        "uri": "assets/instructions.png"
       }
     ]
   },
