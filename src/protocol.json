@@ -8,15 +8,26 @@
           "type": "alert",
           "title": "Welcome to Tremor Retrainer",
           "message": "Let's get to work",
-          "icon": "/assets/icon.png"
+          "icon": {
+            "url": "/assets/icon.png",
+            "tint": false
+          }
         },
         {
           "type": "sessions",
           "left": {
-            "text": "{0} Sessions Completed"
+            "text": "{0} Sessions Completed",
+            "icon": {
+              "url": "/assets/completed.png",
+              "tint": false
+            }
           },
           "right": {
             "text": "Start Session",
+            "icon": {
+              "url": "/assets/unlocked.png",
+              "tint": false
+            },
             "action": "flow://flows/tremor"
           }
         }

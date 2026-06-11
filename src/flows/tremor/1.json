@@ -16,7 +16,7 @@
         "font_attributes": "Bold"
       },
       {
-        "type": "image",
+        "type": "media",
         "uri": "assets/instructionFigure.png"
       }
     ]
