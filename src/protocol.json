@@ -6,7 +6,7 @@
       "elements": [
         {
           "type": "alert",
-          "title": "Welcome to Tremor Retrainer",
+          "title": "Tremor Retrainer",
           "message": "Let's get to work",
           "icon": {
             "url": "/assets/icon.png",
