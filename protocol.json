@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Tremor Retrainer",
+    "element": {
+      "type": "list",
+      "elements": [
+        {
+          "type": "alert",
+          "title": "Welcome to Tremor Retrainer",
+          "message": "Let's get to work",
+          "icon": "/assets/icon.png"
+        },
+        {
+          "type": "sessions",
+          "left": {
+            "text": "{0} Sessions Completed"
+          },
+          "right": {
+            "text": "Start Session",
+            "action": "flow://flows/tremor"
+          }
+        }
+      ]
+    }
+  }
+}
