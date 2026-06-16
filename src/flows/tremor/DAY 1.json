@@ -1,5 +1,5 @@
 {
-  "header_text": "Tremor Retrainer",
+  "header_text": "Start Training",
   "information": {
     "position": "before",
     "count_key": "tremor_instructions",
@@ -25,7 +25,7 @@
     {
       "type": "tremorretrainer",
       "name": "tremor_session",
-      "session_length": 1800000,
+      "session_length": 3600000,
       "sampling_length": 10000,
       "metronome": "assets/metronomeding.mp3"
     }

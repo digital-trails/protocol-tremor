@@ -1,0 +1,33 @@
+{
+  "header_text": "Start Training",
+  "information": {
+    "position": "before",
+    "count_key": "tremor_instructions",
+    "elements": [
+      {
+        "type": "text",
+        "text": "1. Hold your arm extended with phone strapped to wrist while the app detects your tremor frequency.",
+        "font_attributes": "Bold"
+      },
+      {
+        "type": "text",
+        "text": "2. Move your arm up and down to match the beat of the treatment frequency provided by the phone.",
+        "font_attributes": "Bold"
+      },
+      {
+        "type": "media",
+        "uri": "assets/instructions.png"
+      }
+    ]
+  },
+  "navigators": "wait_for_complete",
+  "elements": [
+    {
+      "type": "tremorretrainer",
+      "name": "tremor_session",
+      "session_length": 1800000,
+      "sampling_length": 10000,
+      "metronome": "assets/metronomeding.mp3"
+    }
+  ]
+}
