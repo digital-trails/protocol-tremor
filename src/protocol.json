@@ -30,6 +30,13 @@
             },
             "action": "flow://flows/tremor"
           }
+        },
+        {
+          "type": "button",
+          "action": {
+            "text": "View & Export Reports",
+            "action": "navpage://History"
+          }
         }
       ]
     }

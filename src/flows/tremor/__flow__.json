@@ -1,5 +1,7 @@
 {
 	"mode": "select",
 	"completed_alert": "Session Completed",
-	"abandoned_alert": "Session Not Fully Completed"
+	"abandoned_alert": "Session Not Fully Completed",
+	"save_report_count": 100,
+	"pretty_name": "Tremor Retrainer"
 }
