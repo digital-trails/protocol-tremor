@@ -25,6 +25,7 @@
     {
       "type": "tremorretrainer",
       "name": "tremor_session",
+      "report": "tremor_session_report",
       "session_length": 3600000,
       "sampling_length": 10000,
       "metronome": "assets/metronomeding.mp3"
