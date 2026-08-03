@@ -27,7 +27,10 @@
       "name": "tremor_session",
       "session_length": 1800000,
       "sampling_length": 10000,
-      "metronome": "assets/metronomeding.mp3"
+      "metronome": "assets/metronome.mp3",
+      "metronome_slow": "assets/metronome_slow.mp3",
+      "metronome_fast": "assets/metronome_fast.mp3",
+      "completion_sound": "assets/completion_sound.mp3"
     }
   ]
 }
