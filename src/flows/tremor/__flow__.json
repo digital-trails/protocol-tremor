@@ -1,5 +1,8 @@
 {
 	"mode": "select",
-	"save_report_count": 100,
-	"pretty_name": "Tremor Retrainer"
+	"pretty_name": "Tremor Retrainer",
+	"history_config": {
+		"save_count": 100,
+		"save_report": true
+	}
 }
