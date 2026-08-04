@@ -25,7 +25,7 @@
     {
       "type": "tremorretrainer",
       "name": "tremor_session",
-      "report": "Session Report",
+      "report": "Day 1 Tremor Retrainer Report",
       "session_length": 3600000,
       "sampling_length": 10000,
       "metronome": "assets/metronome.mp3",
